@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-404/LeetCode/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
