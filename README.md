@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Greedy
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
