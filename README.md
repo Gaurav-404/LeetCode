@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-404/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-404/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-404/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gaurav-404/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
