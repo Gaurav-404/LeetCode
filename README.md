@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-404/LeetCode/tree/master/0002-add-two-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Gaurav-404/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Recursion
 |  |
 | ------- |
