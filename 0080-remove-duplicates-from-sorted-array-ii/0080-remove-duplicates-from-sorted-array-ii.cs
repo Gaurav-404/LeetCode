@@ -1,19 +1,15 @@
 public class Solution {
     public int RemoveDuplicates(int[] nums) {
-      int k=1;
-      int count=0;
-      for(int i=1;i<nums.Length;i++){
-        if(nums[i]!=nums[i-1]){
-            count=0;
-            nums[k++]=nums[i];
-        }
-        else{
-            count++;
-            if(count<=1){
-                nums[k++]=nums[i];
+        var replaceIndex = 0;
+        for (var i = 0; i < nums.Length; i++)
+        {
+            if (replaceIndex-2 >= 0 && nums[replaceIndex-2] == nums[i])
+            {
+                continue;
             }
+            nums[replaceIndex] = nums[i];
+            replaceIndex++;
         }
-      }
-      return k;  
+        return replaceIndex;
     }
 }
