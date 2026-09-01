@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurav-404/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Gaurav-404/LeetCode/tree/master/0189-rotate-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Gaurav-404/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## Recursion
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav-404/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Gaurav-404/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gaurav-404/LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Gaurav-404/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
