@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-404/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-404/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/Gaurav-404/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Gaurav-404/LeetCode/tree/master/0169-majority-element) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-404/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3731-find-missing-elements](https://github.com/Gaurav-404/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav-404/LeetCode/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Gaurav-404/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
