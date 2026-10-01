@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Gaurav-404/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-404/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Gaurav-404/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Gaurav-404/LeetCode/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Gaurav-404/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
