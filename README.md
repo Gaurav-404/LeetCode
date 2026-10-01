@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gaurav-404/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gaurav-404/LeetCode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Gaurav-404/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0090-subsets-ii) |
@@ -150,9 +151,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gaurav-404/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Gaurav-404/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Gaurav-404/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
