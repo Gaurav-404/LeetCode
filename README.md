@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-404/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/Gaurav-404/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Gaurav-404/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Gaurav-404/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Gaurav-404/LeetCode/tree/master/0200-number-of-islands) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Gaurav-404/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
