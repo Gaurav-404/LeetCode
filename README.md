@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Gaurav-404/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Gaurav-404/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Gaurav-404/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Gaurav-404/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Gaurav-404/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Gaurav-404/LeetCode/tree/master/0169-majority-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-404/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Gaurav-404/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
