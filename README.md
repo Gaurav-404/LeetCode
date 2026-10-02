@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaurav-404/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Gaurav-404/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gaurav-404/LeetCode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
