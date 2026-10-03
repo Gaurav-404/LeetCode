@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaurav-404/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Gaurav-404/LeetCode/tree/master/0605-can-place-flowers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Gaurav-404/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Gaurav-404/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/Gaurav-404/LeetCode/tree/master/0605-can-place-flowers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Gaurav-404/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Gaurav-404/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Prefix Sum
