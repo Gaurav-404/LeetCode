@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Gaurav-404/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Gaurav-404/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Gaurav-404/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav-404/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Gaurav-404/LeetCode/tree/master/0605-can-place-flowers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Gaurav-404/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Gaurav-404/LeetCode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav-404/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gaurav-404/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Gaurav-404/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Gaurav-404/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav-404/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Gaurav-404/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Gaurav-404/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Gaurav-404/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
