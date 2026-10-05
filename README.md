@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurav-404/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Gaurav-404/LeetCode/tree/master/0605-can-place-flowers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Gaurav-404/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0946-validate-stack-sequences](https://github.com/Gaurav-404/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gaurav-404/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Gaurav-404/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gaurav-404/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurav-404/LeetCode/tree/master/0020-valid-parentheses) |
+| [0946-validate-stack-sequences](https://github.com/Gaurav-404/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/Gaurav-404/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Gaurav-404/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gaurav-404/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
